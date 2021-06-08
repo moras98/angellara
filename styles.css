@@ -1,0 +1,40 @@
+
+/*HEADER*/
+nav {
+    background-color: pink;
+    text-align: right;
+}
+
+.menu-links {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    margin-right: 2%;
+}
+
+/*SECTIONS*/
+section {
+    text-align: center;
+}
+
+/*ABOUT SECTION*/
+#about_us {
+    background-color: rgb(214, 212, 212);
+}
+/*CLOTHING SECTION*/
+#clothing {
+    background-color: rgb(240, 204, 204);
+}
+
+.picture {
+    width: 5%;
+}
+
+.description {
+    width: 75%
+}
+
+/*FOOTER*/
+footer {
+    background-color: black;
+}
